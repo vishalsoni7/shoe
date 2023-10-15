@@ -42,7 +42,7 @@ export const ProductCart = ({ ideal, name, price, image }) => {
         <img src={image} />
         <span className="span"> {ideal} </span>
         <p>{name} </p>
-        <span> ₹ {price} </span>
+        <span> $ {price} </span>
 
         <div className="button-div">
           <button onClick={addWishList} className="products-cart-button1">

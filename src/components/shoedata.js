@@ -34,7 +34,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1533867617858-e7b97e060509?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80",
     ideal: "Men",
-    name: "Comfort Fit Jeans",
+    name: "Mens Formal Boots",
     price: 39.99,
   },
   {
@@ -42,7 +42,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
     ideal: "Women",
-    name: "Running Shoes",
+    name: "Formal Dark Tan Shoes",
     price: 49.99,
   },
   {
@@ -50,7 +50,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1563434649554-58f91d22ec2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2958&q=80",
     ideal: "Men",
-    name: "Casual Shirt",
+    name: "Light Camel Leather Shoe",
     price: 29.99,
   },
   {
@@ -58,7 +58,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1576133385309-203e67da8e58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
     ideal: "Women",
-    name: "Leather Handbag",
+    name: "Leather Boot",
     price: 79.99,
   },
   {
@@ -66,7 +66,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
     ideal: "Men",
-    name: "Sport Watch",
+    name: "Nike Air Mid",
     price: 89.99,
   },
   {
@@ -74,7 +74,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
     ideal: "Women",
-    name: "Fitness Leggings",
+    name: "Nike Fitness Shoe",
     price: 34.99,
   },
   {
@@ -82,7 +82,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1524532787116-e70228437bbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80",
     ideal: "Men",
-    name: "Classic Sunglasses",
+    name: "Nike Air Jordans",
     price: 19.99,
   },
   {
@@ -90,7 +90,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1615290643080-e379930bf0cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2864&q=80",
     ideal: "Women",
-    name: "High Heel Shoes",
+    name: "Nike Low Dunk",
     price: 59.99,
   },
   {
@@ -98,7 +98,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2960&q=80",
     ideal: "Men",
-    name: "Gaming Headset",
+    name: "Sneakers Puma",
     price: 79.99,
   },
   {
@@ -106,7 +106,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2865&q=80",
     ideal: "Women",
-    name: "Winter Coat",
+    name: "Running Shoe",
     price: 129.99,
   },
   {
@@ -114,7 +114,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1605408499391-6368c628ef42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80",
     ideal: "Men",
-    name: "Gaming Headset",
+    name: "Gaming Sneakers",
     price: 79.99,
   },
   {
@@ -122,7 +122,7 @@ export const productsData = [
     image:
       "https://images.unsplash.com/photo-1590673846749-e2fb8f655df8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
     ideal: "Women",
-    name: "Winter Coat",
+    name: "Winter White Shoe",
     price: 129.99,
   },
 ];
